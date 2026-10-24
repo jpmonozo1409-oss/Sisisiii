@@ -1,0 +1,343 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1792532618233411, "dur":91, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618233592, "dur":39508, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618273117, "dur":86, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618273243, "dur":1414, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618274836, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1792532618274933, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275253, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275351, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level2.resS" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275433, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275509, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275585, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275662, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275736, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275795, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1792532618275880, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276150, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276259, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276448, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276516, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276570, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276698, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618276923, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618277085, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618277274, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618277680, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618277740, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618277829, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618277884, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618278134, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618278295, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618278933, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618279275, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618279349, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618279497, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618279641, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618279921, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618280083, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618280211, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618280320, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618280500, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1792532618281005, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1792532618281083, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1792532618281381, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1792532618281542, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1792532618281604, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1792532618282130, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1792532618274823, "dur":7472, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618282297, "dur":351448, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618633747, "dur":445, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618634193, "dur":133, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618634326, "dur":230, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618634876, "dur":3158, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1792532618274636, "dur":7674, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1792532618282319, "dur":9830, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1792532618306239, "dur":1001, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1792532618307248, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1792532618307435, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1792532618307886, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\new user\\OneDrive\\Documentos\\Ludus limi\\LudusOrbesCompleto\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1792532618308140, "dur":707, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\new user\\OneDrive\\Documentos\\Ludus limi\\LudusOrbesCompleto\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1792532618308850, "dur":484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\new user\\OneDrive\\Documentos\\Ludus limi\\LudusOrbesCompleto\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1792532618309407, "dur":485, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playere4fdcac8-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1792532618307246, "dur":2838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1792532618310426, "dur":81, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1792532618311090, "dur":313609, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1792532618631483, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1792532618631481, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1792532618631695, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1792532618274743, "dur":7602, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1792532618282359, "dur":2059, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1792532618284418, "dur":7925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1792532618292344, "dur":371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1792532618320825, "dur":4586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1792532618330838, "dur":494, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1792532618325581, "dur":5768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618331512, "dur":11907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618343559, "dur":19902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618363616, "dur":17200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618380977, "dur":19877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618401010, "dur":22370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618423540, "dur":13966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1792532618437780, "dur":6044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1792532618443939, "dur":29977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1792532618474003, "dur":160102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618274705, "dur":7614, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618282331, "dur":1809, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618284140, "dur":8280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618292442, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1792532618292421, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1792532618318931, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1792532618321413, "dur":5127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1792532618327143, "dur":8028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1792532618355990, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618335405, "dur":20751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1792532618380534, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618358842, "dur":23527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1792532618382524, "dur":21612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1792532618404303, "dur":33896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1792532618438357, "dur":16851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1792532618463788, "dur":294, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1792532618455386, "dur":8716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1792532618464251, "dur":169637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618274825, "dur":7546, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618282384, "dur":2135, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618284520, "dur":7641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618292205, "dur":637, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618329734, "dur":3729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1792532618357823, "dur":171, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618333494, "dur":24538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1792532618372886, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618358544, "dur":14487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1792532618402729, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618373201, "dur":29638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1792532618428635, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618402964, "dur":25751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1792532618452537, "dur":358, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1792532618428911, "dur":24004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1792532618453132, "dur":8992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1792532618462294, "dur":171554, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1792532618275857, "dur":6924, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1792532618282782, "dur":9412, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1792532618292195, "dur":609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1792532618325384, "dur":597, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1792532618326005, "dur":2882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1792532618341662, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1792532618329022, "dur":12757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618341914, "dur":26796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618368830, "dur":25895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618394936, "dur":26903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618422152, "dur":15270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618437525, "dur":391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618437522, "dur":396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618437949, "dur":45589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1792532618483636, "dur":150130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618274969, "dur":7423, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618282405, "dur":2141, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618284547, "dur":7883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618292431, "dur":399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1792532618331587, "dur":246, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618328253, "dur":3594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1792532618332017, "dur":14929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1792532618347122, "dur":19119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1792532618366406, "dur":34069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1792532618425310, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618400601, "dur":24877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1792532618452841, "dur":5737, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1792532618427080, "dur":31575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1792532618458819, "dur":174886, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1792532618275021, "dur":7388, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1792532618282420, "dur":1902, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1792532618284323, "dur":8262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1792532618292586, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1792532618324329, "dur":4641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1792532618329119, "dur":11023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1792532618340329, "dur":22818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1792532618363377, "dur":17585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1792532618381148, "dur":18014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1792532618424920, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1792532618399279, "dur":26074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1792532618425534, "dur":13638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1792532618439271, "dur":44379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1792532618483809, "dur":149939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1792532618275120, "dur":7312, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1792532618282443, "dur":1687, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1792532618284130, "dur":8390, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1792532618292521, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1792532618325378, "dur":453, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1792532618319645, "dur":6240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1792532618327327, "dur":8278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1792532618335720, "dur":26499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1792532618362340, "dur":25783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1792532618388409, "dur":15977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1792532618404528, "dur":28688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1792532618433347, "dur":16262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1792532618458864, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1792532618449901, "dur":9076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1792532618459086, "dur":174677, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618275160, "dur":7322, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618282490, "dur":1822, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618284313, "dur":8012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618292326, "dur":460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1792532618324260, "dur":14793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1792532618356081, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618339222, "dur":16971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1792532618356382, "dur":29504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1792532618402779, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618385990, "dur":16873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1792532618426320, "dur":443, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1792532618403016, "dur":26594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1792532618429784, "dur":12931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1792532618444799, "dur":5553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1792532618450523, "dur":7226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level2" }}
+,{ "pid":12345, "tid":9, "ts":1792532618457836, "dur":6318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1792532618464281, "dur":169525, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618275254, "dur":7295, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618282559, "dur":741, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618283300, "dur":8925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618292246, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1792532618292226, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1792532618318388, "dur":3755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1792532618322629, "dur":6590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618329358, "dur":5282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618334820, "dur":9576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618344515, "dur":31118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618375740, "dur":21340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618397348, "dur":22763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618435318, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618420348, "dur":15056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618452383, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618435509, "dur":16962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1792532618452655, "dur":652, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1792532618453313, "dur":7119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1792532618460564, "dur":173568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618275423, "dur":7245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618282668, "dur":9498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618292228, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1792532618292183, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1792532618293902, "dur":3399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1792532618297450, "dur":189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1792532618297446, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1792532618298439, "dur":1505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1792532618300074, "dur":303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1792532618300071, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1792532618300570, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1792532618302632, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1792532618304761, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618303385, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1792532618304993, "dur":153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618304990, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618305269, "dur":6119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618312081, "dur":4201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618316598, "dur":5287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618328510, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618321982, "dur":6598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618328682, "dur":11036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618391270, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618340059, "dur":51348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618391552, "dur":96, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1792532618391656, "dur":36028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618427805, "dur":14975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1792532618442932, "dur":14563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1792532618457630, "dur":13297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1792532618471011, "dur":162770, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1792532618275515, "dur":7173, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1792532618282688, "dur":9514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1792532618292205, "dur":618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1792532618330896, "dur":633, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1792532618326821, "dur":4734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1792532618331791, "dur":1256, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1792532618333053, "dur":31075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1792532618398461, "dur":107, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1792532618364241, "dur":34360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1792532618398753, "dur":24034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1792532618422903, "dur":17388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1792532618440386, "dur":17308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1792532618458039, "dur":7077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1792532618465218, "dur":168608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618275555, "dur":7152, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618282708, "dur":9480, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618292223, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1792532618292192, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1792532618297879, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618296443, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1792532618298159, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1792532618298737, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1792532618300527, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1792532618300715, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1792532618302951, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618302948, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618303649, "dur":2139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618305919, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":13, "ts":1792532618305918, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto.exe" }}
+,{ "pid":12345, "tid":13, "ts":1792532618306047, "dur":3108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto.exe" }}
+,{ "pid":12345, "tid":13, "ts":1792532618309219, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1792532618310290, "dur":4101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1792532618314588, "dur":3415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618320560, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618318155, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618321334, "dur":6526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618328009, "dur":10385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618338509, "dur":12173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618350853, "dur":25024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618376021, "dur":23229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618399383, "dur":24293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618423768, "dur":19049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1792532618442912, "dur":116, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618461302, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1792532618443034, "dur":18366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1792532618461551, "dur":172156, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618275627, "dur":7097, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618282725, "dur":9507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618292234, "dur":719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1792532618341515, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618330397, "dur":11454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1792532618342008, "dur":22413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1792532618364649, "dur":20158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1792532618401934, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618385041, "dur":17033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1792532618426299, "dur":266, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618402227, "dur":26804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1792532618463292, "dur":125, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1792532618429214, "dur":34251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1792532618463636, "dur":170066, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618275741, "dur":7009, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618282751, "dur":9767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618292540, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1792532618292519, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1792532618319221, "dur":6931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1792532618335004, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618326300, "dur":8823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618335309, "dur":21115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618356558, "dur":24283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618398500, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618380997, "dur":17621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618398802, "dur":22264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618421229, "dur":132, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618421368, "dur":15703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618437173, "dur":15900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1792532618463756, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1792532618453283, "dur":10618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/level0.resS" }}
+,{ "pid":12345, "tid":15, "ts":1792532618464063, "dur":169690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618275802, "dur":6963, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618282765, "dur":9545, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618292333, "dur":231, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1792532618292311, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1792532618323708, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618320832, "dur":3010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1792532618330447, "dur":857, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618323986, "dur":7337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618331774, "dur":1119, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618332901, "dur":17867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618353045, "dur":1419, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618354474, "dur":13520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618368090, "dur":24587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618393062, "dur":12175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618405355, "dur":29823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618435348, "dur":364, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618449163, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1792532618435720, "dur":13540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1792532618449498, "dur":8712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/new user/OneDrive/Documentos/Ludus limi/LudusOrbesCompleto_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1792532618458301, "dur":175474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1792532618642969, "dur":2880, "ph":"X", "name": "ProfilerWriteOutput" }
+,
